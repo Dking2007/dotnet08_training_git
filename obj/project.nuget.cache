@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZOg6Z15yBfk=",
+  "dgSpecHash": "z1do/Fd/HcQ=",
   "success": true,
-  "projectFilePath": "D:\\DOT NET\\Buổi 15\\DEMO\\DEMO.csproj",
+  "projectFilePath": "E:\\Cybersoft\\GIT\\testgit1\\dotnet08_training_git\\DEMO.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+    "C:\\Users\\JK\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\JK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
   ],
   "logs": []
 }
